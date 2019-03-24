@@ -5,9 +5,10 @@
 Current Progress:
 - [x] Initial data exploration
 - [x] Clustering
-- [x] Neural Network - FC - 86%
-- [x] Random Forest - 93%
-- [x] Gradient Boosted Classifiers - 96%
+- [x] Neural Network - FC: 86%
+- [x] Random Forest: 93%
+- [x] Gradient Boosted Classifiers: 96%
+- [x] XGBoost Classifier, 500 trees and (max_depth = 25), Trained on 1 event: 98.1%
 - [ ] Exploration of different Neural Network architectures
 
 Particle Physics and Quantum Mechanics:

@@ -2,3 +2,7 @@
 *.p
 .ipynb_checkpoints/*
 *.npy
+*acts-core*
+trackml/*
+*.model
+top-quarks/*
