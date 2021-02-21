@@ -24,3 +24,15 @@ Current Approach:
 - The current models are trained 1st step(i.e., classification of 2 hits as promising or not), since the same model can be extended in the second step
 - In the final step, the hits that are closest to the reconstructed trajectory will be selected
 
+# Cite
+
+```
+@misc{chitlangia2021tracking,
+  author = {Chitlangia, Sharad},
+  title = {Particle Track Reconstruction using Machine Learning},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {Available at \url{https://github.com/Sharad24/Particle-Track-Reconstruction/}},
+}
+```
